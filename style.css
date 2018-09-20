@@ -9,8 +9,16 @@ body {
 .container {
   width: 70%;
   margin: auto;
+  font-family: 'Quicksand', sans-serif;
 }
 
+section {
+  border: 1px solid black;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #d7e8e6;
+
+}
 h1, h2 {
   text-transform: uppercase;
 }
@@ -33,9 +41,19 @@ td {
 
 #title-section {
   text-align: center;
-  /* line-height: 8px; */
 }
 
 .detail-heading {
-  line-height: 4px;
+  line-height: 10px;
 }
+
+.title-text {
+  width: 75%;
+  float: left;
+
+}
+
+/* #my-photo {
+  width: 25%;
+  float: left;
+} */
