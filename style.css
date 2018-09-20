@@ -1,0 +1,41 @@
+body {
+  background-image: url(stripes-light.png);
+}
+/* ========================================================
+ This pattern is downloaded from www.subtlepatterns.com
+ If you need more, that's where to get'em.
+ ======================================================== */
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+h1, h2 {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+th {
+  text-decoration: underline;
+}
+td {
+  padding-left: 20px;
+}
+
+#title-section {
+  text-align: center;
+  /* line-height: 8px; */
+}
+
+.detail-heading {
+  line-height: 4px;
+}
