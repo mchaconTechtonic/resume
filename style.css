@@ -1,5 +1,5 @@
 body {
-  background-image: url(stripes-light.png);
+  background-image: url(assets/stripes-light.png);
 }
 /* ========================================================
  This pattern is downloaded from www.subtlepatterns.com
@@ -15,8 +15,8 @@ body {
 section {
   border: 1px solid black;
   padding: 15px;
-  margin-bottom: 15px;
-  background-color: #d7e8e6;
+  margin: 30px;
+  background-color: #c0d6d3;
 
 }
 h1, h2 {
@@ -44,16 +44,10 @@ td {
 }
 
 .detail-heading {
-  line-height: 10px;
+  line-height: 20px;
 }
 
 .title-text {
   width: 75%;
   float: left;
-
 }
-
-/* #my-photo {
-  width: 25%;
-  float: left;
-} */
